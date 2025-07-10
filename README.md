@@ -69,23 +69,5 @@ This transformation from raw data to a predictive model, and finally to personal
 This project serves as a solid foundation. Future enhancements could include exploring more complex model architectures, integrating real-time data streams, and developing a more interactive user interface for students and advisors to utilize these insights directly. 🌟
 
 
-<button class="glowing-button">CONTACT ME: iolowofeverf@gmail.com</button>
-
-.glowing-button {
-  padding: 12px 24px;
-  background: transparent;
-  color: #00eeff;
-  border: 2px solid #00eeff;
-  border-radius: 5px;
-  font-weight: bold;
-  font-size: 16px;
-  cursor: pointer;
-  box-shadow: 0 0 5px #00eeff, 0 0 10px #00eeff;
-  transition: all 0.3s ease;
-}
-
-.glowing-button:hover {
-  background: #00eeff;
-  color: #000;
-  box-shadow: 0 0 10px #00eeff, 0 0 20px #00eeff, 0 0 40px #00eeff;
-}
+CONTACT ME: iolowofeverf@gmail.com
+![giphy](https://github.com/user-attachments/assets/4600ca05-c7ac-4d79-85ee-b050e7168ff7)
