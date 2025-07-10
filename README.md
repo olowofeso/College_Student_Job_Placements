@@ -1,4 +1,8 @@
-Project Documentationfor: College Student Placement Prediction and Recommendation System
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dataprofessor/dataprofessor/ae7f1d0d9b1a7d0b1a7a0b1e6d0c1e7d0c1e7d0c/banner.gif" alt="Machine Learning Animation">
+</div>
+
+Project Documentation for: College Student Placement Prediction and Recommendation System
 
 Data, when leveraged effectively, can transform complex problems into actionable insights. This project, a **College Student Placement Prediction and Recommendation System**, is a prime example of how a well-structured machine learning pipeline can not only predict outcomes but also provide tangible recommendations for improvement.
 
@@ -61,9 +65,21 @@ Building on feature importance, the project takes it a step further by offering 
 This transformation from raw data to a predictive model, and finally to personalized, actionable recommendations, demonstrates the true power of machine learning in real-world applications. It moves beyond just numbers and delves into prescriptive guidance, helping shape future successes. 🚀
 
 
-Contact me: iolowofeverf@gmail.com
-
-
 
 This project serves as a solid foundation. Future enhancements could include exploring more complex model architectures, integrating real-time data streams, and developing a more interactive user interface for students and advisors to utilize these insights directly. 🌟
+
+
+<p align="center">
+  <a href="mailto:iolowofeverf@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-iolowofeverf@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" style="animation: pulse 2s infinite;">
+  </a>
+</p>
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+</style>
 
