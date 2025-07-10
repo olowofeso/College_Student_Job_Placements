@@ -69,17 +69,37 @@ This transformation from raw data to a predictive model, and finally to personal
 This project serves as a solid foundation. Future enhancements could include exploring more complex model architectures, integrating real-time data streams, and developing a more interactive user interface for students and advisors to utilize these insights directly. 🌟
 
 
-<p align="center">
-  <a href="mailto:iolowofeverf@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-iolowofeverf@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" style="animation: pulse 2s infinite;">
-  </a>
-</p>
+📬 Contact
 
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-</style>
-
+<div align="center">
+  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-5px); }
+      }
+      .mail-icon {
+        animation: float 2s ease-in-out infinite;
+      }
+      .text-pop {
+        animation: popIn 0.5s ease-out forwards;
+        opacity: 0;
+      }
+      @keyframes popIn {
+        0% { opacity: 0; transform: scale(0.5); }
+        100% { opacity: 1; transform: scale(1); }
+      }
+    </style>
+    
+    <g class="mail-icon">
+      <circle cx="50" cy="50" r="40" fill="#4F46E5"/>
+      <path d="M30 40 L70 40 L70 70 L30 70 Z" fill="white"/>
+      <path d="M30 40 L50 55 L70 40" stroke="white" stroke-width="2" fill="none"/>
+    </g>
+    
+    <text x="120" y="55" class="text-pop" style="font-size:24px; fill:#333; font-weight:bold;">Get in Touch</text>
+    <text x="120" y="80" class="text-pop" style="animation-delay:0.2s; font-size:18px; fill:#4F46E5;">
+      iolowofeverf@gmail.com
+    </text>
+  </svg>
+</div>
